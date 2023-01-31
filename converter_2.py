@@ -3,6 +3,7 @@
 # email: shinhong@oregonstate.edu
 # class: cs 361
 # description: Assignment 5 Individual Project Milestone number 1
+# version 1
 
 import requests
 import datetime
